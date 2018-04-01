@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\nikolay\source\repos\homework 6.1.2\source.cpp(67): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HomeWork 6.1.2.vcxproj -> C:\Users\Nikolay\source\repos\HomeWork 6.1.2\Debug\HomeWork 6.1.2.exe
