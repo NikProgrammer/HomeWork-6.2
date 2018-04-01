@@ -2,21 +2,4 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/slnx.sqlite
-/.vs/ProjectSettings.json
-/.vs/HomeWork-6.2.2/v15/ipch/AutoPCH/5a61b5d2879c403/SOURCE.ipch
-/.vs/HomeWork-6.2.2/v15/ipch/AutoPCH/5a61b5d2879c403
-/.vs/HomeWork-6.2.2/v15/Browse.VC.opendb
-/.vs/HomeWork-6.2.2/v15/Browse.VC.db
-/.vs/HomeWork-6.2.2/v15
-/.vs/HomeWork 6.1.2/v15/ipch/AutoPCH/b911c2a0d993e52a/SOURCE.ipch
-/.vs/HomeWork 6.1.2/v15/ipch/AutoPCH/b911c2a0d993e52a
-/.vs/HomeWork 6.1.2/v15/ipch/AutoPCH/3a34f1d30e752d3e/SOURCE.ipch
-/.vs/HomeWork 6.1.2/v15/ipch/AutoPCH/3a34f1d30e752d3e
-/.vs/HomeWork 6.1.2/v15/ipch/AutoPCH/32cc2c7ac74392ee/SOURCE.ipch
-/.vs/HomeWork 6.1.2/v15/ipch/AutoPCH/32cc2c7ac74392ee
-/.vs/HomeWork 6.1.2/v15/ipch/AutoPCH
-/.vs/HomeWork 6.1.2/v15/Browse.VC.db
-/.vs/HomeWork 6.1.2/v15/.suo
-/.vs/HomeWork 6.1.2/v15
-/.vs
+/HomeWork 6.1.2.vcxproj.user
