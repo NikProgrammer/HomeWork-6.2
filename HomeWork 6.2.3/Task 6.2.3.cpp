@@ -17,7 +17,7 @@ int fill(T* A, size_t items)
 }
 
 template <typename T>
-int copy(T* const A, T* B, int size)
+int reverseCopy(T* const A, T* B, int size)
 {
 	if ((A == nullptr) || (B == nullptr))
 	{
